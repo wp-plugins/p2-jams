@@ -1,0 +1,27 @@
+#p2-jams img,
+#p2-jams p {
+    float: left;
+    display: inline;
+}
+
+#postbox #p2-jams img {
+	display: inline;
+}
+
+#p2-jams img {
+	margin-right: 1em;
+}
+
+#p2-jams p {
+	float: left;
+    width: 50%;
+}
+
+#p2-jams li {
+	display: inline-block;
+}
+
+.widget_p2_jams_widget {
+	display: inline-block;
+	padding-top: 40px;
+}
